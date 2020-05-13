@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d20f932b-f4ef-4e21-9aff-106dbb7fbb4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../another-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/src/main/java/com/springcloud/github/demo/anotherservice/AnotherServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/src/main/java/com/springcloud/github/demo/anotherservice/controller/AnotherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcloud/github/demo/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcloud/github/demo/apigateway/filter/AccessFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/repo/myconfig-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/repo/myconfig-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservice-config-map/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-config-map/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservice-config-map/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-config-map/src/main/resources/bootstrap.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bq5zgRkjNU1al11lxmZLWmdNMS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloud.github.demo.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d20f932b-f4ef-4e21-9aff-106dbb7fbb4a" name="Default Changelist" comment="" />
+      <created>1589347046126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589347046126</updated>
+      <workItem from="1589347054723" duration="2176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="965" y="183" key="#com.intellij.ide.util.MemberChooser" timestamp="1589347805333">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state x="965" y="183" key="#com.intellij.ide.util.MemberChooser/0.23.1536.894@0.23.1536.894" timestamp="1589347805333" />
+    <state width="726" height="236" key="GridCell.Tab.0.bottom" timestamp="1589348325745">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.0.bottom/0.23.1536.894@0.23.1536.894" timestamp="1589348325745" />
+    <state width="726" height="236" key="GridCell.Tab.0.center" timestamp="1589348325744">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.0.center/0.23.1536.894@0.23.1536.894" timestamp="1589348325744" />
+    <state width="726" height="236" key="GridCell.Tab.0.left" timestamp="1589348325744">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.0.left/0.23.1536.894@0.23.1536.894" timestamp="1589348325744" />
+    <state width="726" height="236" key="GridCell.Tab.0.right" timestamp="1589348325745">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.0.right/0.23.1536.894@0.23.1536.894" timestamp="1589348325745" />
+    <state width="726" height="236" key="GridCell.Tab.1.bottom" timestamp="1589348325746">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.1.bottom/0.23.1536.894@0.23.1536.894" timestamp="1589348325746" />
+    <state width="726" height="236" key="GridCell.Tab.1.center" timestamp="1589348325745">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.1.center/0.23.1536.894@0.23.1536.894" timestamp="1589348325745" />
+    <state width="726" height="236" key="GridCell.Tab.1.left" timestamp="1589348325745">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.1.left/0.23.1536.894@0.23.1536.894" timestamp="1589348325745" />
+    <state width="726" height="236" key="GridCell.Tab.1.right" timestamp="1589348325746">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="726" height="236" key="GridCell.Tab.1.right/0.23.1536.894@0.23.1536.894" timestamp="1589348325746" />
+  </component>
+</project>
